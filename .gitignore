@@ -2,8 +2,4 @@
 .idea
 .DS_Store
 *.FCBak
-*.3mf
-*.stp
-*.step
 *.zip
-**/Else/*.step
